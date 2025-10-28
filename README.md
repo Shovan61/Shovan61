@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shovan Mazumder</h1>
+<h1 align="center">Hi there, I'm Shovan Mazumder</h1>
 <h3 align="center">Senior Front-End Engineer | JavaScript Expert | Front End Specialist</h3>
 
 <p align="center">
@@ -7,24 +7,24 @@
 
 ---
 
-### 🧑‍💼 About Me
+### About Me
 
-🎯 A **results-driven Front-End Engineer** with over **5 years of experience** designing and building responsive, scalable, and accessible web applications using modern JavaScript frameworks.
+ A **results-driven Front-End Engineer** with over **5 years of experience** designing and building responsive, scalable, and accessible web applications using modern JavaScript frameworks.
 
-💡 Passionate about clean code, performance optimization, and creating seamless user experiences.
+ Passionate about clean code, performance optimization, and creating seamless user experiences.
 
-🛠️ Currently focused on:
+ Currently focused on:
 - Building **SAAS Applications**
 - Developing **design systems** and **component libraries**
 - Improving **performance and accessibility**
 
-📫 Let’s connect:  
+ Let’s connect:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shovan-mazumder/)  
 📧 Email: [shovonmazumder61@gmail.com](mailto:shovonmazumder61@gmail.com)
 
 ---
 
-### 🔧 Tech Expertise
+###  Tech Expertise
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,nodejs,express,styledcomponents,sass,git,docker,kubernetes" />
@@ -51,25 +51,23 @@
 
 ---
 
-### 🧠 Currently Learning & Exploring
+###  Currently Learning & Exploring
 
-- 🧩 Micro-Frontends Architecture
-- 🧬 GraphQL API Integration
-- 🖼️ Design Patterns in Large-Scale Front-End Projects
-- 🔐 Web Security & Authentication Flows
+-  Micro-Frontends Architecture
+-  Design Patterns in Large-Scale Front-End Projects
+-  Web Security & Authentication Flows
 
 ---
 
-### 🤝 Let's Collaborate
+###  Let's Collaborate
 
 I'm always open to:
+- New role as an employee (company based in EU or USA/CANADA)
 - Mentorship opportunities
 - Freelance & consulting roles
 - Developer meetups & open-source collaboration
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/shovan-mazumder/) or [email me](mailto:shovonmazumder61@gmail.com)
 
----
 
-_“Great software is built by teams who care about design, performance, and the user experience — that’s what I bring to every project.”_
 
