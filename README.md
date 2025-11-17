@@ -63,8 +63,6 @@
 
 I'm always open to:
 - New role as an employee (company based in EU or USA/CANADA)
-- Mentorship opportunities
-- Freelance & consulting roles
 - Developer meetups & open-source collaboration
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/shovan-mazumder/) or [email me](mailto:shovonmazumder61@gmail.com)
