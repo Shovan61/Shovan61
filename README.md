@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Shovan Mazumder</h1>
 <h3 align="center">Senior Front-End Engineer | JavaScript Expert | Front End Specialist</h3>
 
 <p align="center">
