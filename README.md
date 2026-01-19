@@ -8,7 +8,7 @@
 
 ### About Me
 
- A **results-driven Front-End Engineer** with over **5 years of experience** designing and building responsive, scalable, and accessible web applications using modern JavaScript frameworks.
+ A **results-driven Full-Stack Engineer** with over **5 years of experience** designing and building responsive, scalable, and accessible web applications using modern JavaScript frameworks.
 
  Passionate about clean code, performance optimization, and creating seamless user experiences.
 
